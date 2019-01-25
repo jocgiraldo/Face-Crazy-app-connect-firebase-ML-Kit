@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531027693001",
+    "firebase_url": "https://fir-ml-4bf8b.firebaseio.com",
+    "project_id": "fir-ml-4bf8b",
+    "storage_bucket": "fir-ml-4bf8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531027693001:android:d588af57c7168048",
+        "android_client_info": {
+          "package_name": "co.josegiraldo.facecrazy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531027693001-v94mmcl44e5032vlp66dd88m5pq87si0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5tDRCPvdWiTCzfGN1i7CGfoGqys2Z0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
